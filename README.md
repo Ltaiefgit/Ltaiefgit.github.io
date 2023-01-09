@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my data science portfolio
 
-You can use the [editor on GitHub](https://github.com/Ltaiefgit/Ltaiefgit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a computer science student with passion for using data to solve real-world problems. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of my past projects include:
+  Predicting film rating using a 10 Million entry version of a streaming site called Movielens
+  Create a car price prediction model based data from the largest Europe's car markets
+  
+I have a strong background in machine learning and statistical modeling, and I am skilled in using a variety of tools and technologies, including Python, R, and actually learning SQL.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In addition to my technical skills, I am a strong communicator and enjoy working in cross-functional teams to translate complex data analyses into actionable insights.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ltaiefgit/Ltaiefgit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you for visiting my page. Please feel free to contact me if you have any questions or would like to discuss a potential project.
